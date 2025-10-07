@@ -43,14 +43,16 @@ A sleek full-stack **booking and residency platform** that blends modern web tec
 - 🧰 Prisma CLI (`npx prisma`)
 
 ---
-
 ## 📁 Repository Layout
 
+```text
 eBetFelagi/
-├── client/ → React + Vite app
-├── server/ → Express API + Prisma + fixtures
-│ └── data/Residency.json → sample residency listings
+├── client/                 → React + Vite app
+├── server/                 → Express API + Prisma + fixtures
+│   └── data/
+│       └── Residency.json  → sample residency listings
 └── README.md
+
 
 
 ---
