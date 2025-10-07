@@ -119,9 +119,4 @@ Contribution notes
 - If you change Prisma schema, run npx prisma generate and migrate as needed (for Mongo use prisma db push).
 
 License
-- Add your preferred license here.
-
-If you want, I can:
-- Create server/.env.example and client/.env.example for you,
-- Add a seed script to insert Residency.json into MongoDB via Prisma,
-- Or add a short "Credits" section populated from actual image files in the repo (paste image file paths and I’ll generate attributions).
+- Open source
