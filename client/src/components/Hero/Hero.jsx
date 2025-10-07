@@ -24,7 +24,9 @@ const Hero = () => {
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Find a variety of properties that suit you very easilty</span>
+            <span class="text_am">
+            በቀላሉ የሚፈልጓቸውን ቤቶች ያግኙ
+          </span>
             <span>Forget all difficulties in finding a residence for you</span>
           </div>
 

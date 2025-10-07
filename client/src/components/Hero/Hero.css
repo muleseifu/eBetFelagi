@@ -25,6 +25,16 @@
   font-size: 3.8rem;
   line-height: 4rem;
 }
+
+
+.text_am {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  margin-top: 0.5rem;
+  max-width: 25rem;
+}
+
+
 .orange-circle {
   height: 4rem;
   width: 4rem;
